@@ -1,0 +1,7 @@
+Title: Zlocin i kazna, ISBN: 9782123888574, ADVENTURE, number of pages: 205, authors: [Fjodor Dostojevski]
+Title: Gorski vijenac, ISBN: 9787856228574, CLASSIC, number of pages: 125, authors: [P.P Njegos]
+Title: Veliki rat, ISBN: 9782123000050, SCI_FI, number of pages: 1005, authors: [Aleksandar Gatalica]
+Title: Misliti na javi, ISBN: 9787854488574, ADVENTURE, number of pages: 825, authors: [Brus Ekel]
+Title: Misliti na javi, ISBN: 9787854488574, EPIC_FANTASY, number of pages: 825, authors: [Brus Ekel]
+Title: Seobe, ISBN: 9782123111114, EPIC_FANTASY, number of pages: 741, authors: [Milos Crnjanski]
+Title: Neka druga knjiga sa 3 autora, ISBN: 9785000541542, CLASSIC, number of pages: 333, authors: [Ana Anic, Mile Milic, Sima Simic]
